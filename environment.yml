@@ -1,0 +1,11 @@
+name: image_metrics
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - opencv
+  - pillow
+  - scikit-image
+  - imageio
+  - numpy
+  - jupyter
