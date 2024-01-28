@@ -57,3 +57,43 @@
 ### **Get Started with PhotoMetrics API:**
 
 -   Elevate your photography by harnessing the power of advanced image metrics. Sign up for our PhotoMetrics API today and embark on a journey to perfecting your visual storytelling.
+
+
+
+    [
+      {
+        "image_path": "/Users/bastinrobins/Desktop/1699604043573.jpeg",
+        "blur": 8231.296047960122,
+        "sharpness": 1483.586267785014,
+        "quality_to_print": [
+          300,
+          300
+        ],
+        "duplication_score": 1.0,
+        "average_depth": -5.6853770949720674,
+        "composition_score": 6.668809001686565,
+        "color_harmony_score": 7.044170023682792,
+        "lighting_quality_score": 3.16679168791012,
+        "subject_appeal_score": 0.1617298349075491,
+        "emotional_impact_score": 2.6763847063374566
+      },
+      {
+        "image_path": "/Users/bastinrobins/Desktop/1700240494221.jpeg",
+        "blur": 544.420377819032,
+        "sharpness": 296.017665147667,
+        "quality_to_print": [
+          144,
+          144
+        ],
+        "duplication_score": 0.18492465052231616,
+        "average_depth": -12.036372387238725,
+        "composition_score": 8.801253274602475,
+        "color_harmony_score": 9.351876725600025,
+        "lighting_quality_score": 4.428952798595899,
+        "subject_appeal_score": 0.8103128195720988,
+        "emotional_impact_score": 7.423032173763678
+      }
+    ]
+
+
+
